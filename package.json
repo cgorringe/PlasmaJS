@@ -1,0 +1,25 @@
+{
+  "name": "plasma-demo",
+  "version": "1.0.0",
+  "description": "Plasma animation in a canvas.",
+  "main": "plasma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgorringe/PlasmaJS.git"
+  },
+  "keywords": [
+    "plasma",
+    "screensaver",
+    "canvas",
+    "demo"
+  ],
+  "author": "Carl Gorringe (http://carl.gorringe.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgorringe/PlasmaJS/issues"
+  },
+  "homepage": "https://github.com/cgorringe/PlasmaJS#readme"
+}
